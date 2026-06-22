@@ -25,5 +25,5 @@ Python 3.8 or higher needed
 ---
 # Running the program
 - Clone the repositary
-- run main.py
+- Run main.py
 
