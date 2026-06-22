@@ -20,6 +20,30 @@ This Library Management System allows to manage books, add new members, process 
 - member.py: Member class
 - transaction.py: Transaction class
 ---
+# Usage 
+Example are as thw following
+- Main menu
+  
+--- MAIN MENU ---
+  1. Book Management
+  2. Member Management
+  3. Borrow a Book
+  4. Return a Book
+  5. View Transaction History
+  0. Exit
+--------------------
+  Choice: 
+
+- Member Registeration
+  
+--- MEMBER MANAGEMENT ---
+  1. Register a Member
+  2. Remove a Member
+  3. List All Members
+  0. Back
+-------------------------
+  Choice:
+---
 # Installation
 - Python 3.8 or higher needed
 ---
