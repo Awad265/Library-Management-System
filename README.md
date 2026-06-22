@@ -31,8 +31,6 @@ Example are as thw following
   4. Return a Book
   5. View Transaction History
   0. Exit
---------------------
-  Choice: 
 
 - Member Registeration
   
@@ -41,8 +39,7 @@ Example are as thw following
   2. Remove a Member
   3. List All Members
   0. Back
--------------------------
-  Choice:
+
 ---
 # Installation
 - Python 3.8 or higher needed
