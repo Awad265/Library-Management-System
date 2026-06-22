@@ -24,6 +24,6 @@ This Library Management System allows to manage books, add new members, process 
 Python 3.8 or higher needed
 ---
 # Running the program
-- Download Zip
-- Run main.py
+- Clone the repositary
+- run main.py
 
