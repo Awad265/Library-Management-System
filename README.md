@@ -21,7 +21,7 @@ This Library Management System allows to manage books, add new members, process 
 - transaction.py: Transaction class
 ---
 # Usage 
-Example are as thw following
+Example are as the following
 - Main menu
   
 --- MAIN MENU ---
